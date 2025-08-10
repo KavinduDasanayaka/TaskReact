@@ -1,23 +1,21 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react)](https://skillicons.dev)
 
 
-# Simple UI
+# Responsive UI
 
 ## 🚀 About Me
 I'm a frontend developer...
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kavindud)
-
-
-
 ## Deployment
+## 🔗 Links
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://frontendinterninterviewtask.netlify.app/)
+
 
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/KavinduDasanayaka/TaskReact.git
 ```
 
 Install dependencies
